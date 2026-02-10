@@ -8,7 +8,7 @@ public class Test {
         set.add(10);
         set.add(20);
         set.add(30);
-        
+
         Iterator<Integer> it = set.iterator();
         while(it.hasNext()){
             int x = it.next();
